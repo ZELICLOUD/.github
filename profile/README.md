@@ -1,55 +1,67 @@
+<div align="center">
+
 # ZELICLOUD
 
-<p align="center">
-  <b>Build vertical digital products with strong engineering discipline.</b>
-</p>
+**Vertical products. Practical engineering. Real delivery.**
 
-<p align="center">
-  <a href="https://github.com/ZELICLOUD"><img alt="GitHub Org" src="https://img.shields.io/badge/GitHub-ZELICLOUD-181717?logo=github" /></a>
-  <a href="https://github.com/ZELICLOUD/PropFlow_Backend"><img alt="PropFlow" src="https://img.shields.io/badge/Product-PropFlow-0A66C2" /></a>
-  <a href="https://github.com/ZELICLOUD/Medical_Backend"><img alt="Medical" src="https://img.shields.io/badge/Product-Medical-16A34A" /></a>
-</p>
+<a href="https://github.com/ZELICLOUD"><img alt="GitHub Org" src="https://img.shields.io/badge/Org-ZELICLOUD-181717?logo=github&logoColor=white"></a>
+<a href="https://github.com/ZELICLOUD/PropFlow_Backend"><img alt="PropFlow" src="https://img.shields.io/badge/Focus-PropFlow-0A66C2"></a>
+<a href="https://github.com/ZELICLOUD/Medical_Backend"><img alt="Medical" src="https://img.shields.io/badge/Focus-Medical-16A34A"></a>
+
+</div>
 
 ---
 
-## 产品矩阵
+## 我们在做什么
 
-### PropFlow（业务流与协同）
+ZELICLOUD 专注于垂直业务数字化，围绕 **PropFlow** 与 **Medical** 两条产品线持续迭代。
 
-- **Backend** · [PropFlow_Backend](https://github.com/ZELICLOUD/PropFlow_Backend)
-- **Frontend** · [PropFlow_Frontend](https://github.com/ZELICLOUD/PropFlow_Frontend)
-- **Admin App** · [PropFlow_Admin_App](https://github.com/ZELICLOUD/PropFlow_Admin_App)
-- **User App** · [PropFlow_User_App](https://github.com/ZELICLOUD/PropFlow_User_App)
-- **Tools** · [PropFlow_Tools](https://github.com/ZELICLOUD/PropFlow_Tools)
-- **Docs** · [PropFlow_docs](https://github.com/ZELICLOUD/PropFlow_docs)
-
-### Medical（医疗业务数字化）
-
-- **Backend** · [Medical_Backend](https://github.com/ZELICLOUD/Medical_Backend)
-- **Admin Web** · [Medical_Admin_Web](https://github.com/ZELICLOUD/Medical_Admin_Web)
-- **Mini Program** · [Medical_Mini_Program](https://github.com/ZELICLOUD/Medical_Mini_Program)
+- 面向业务场景构建稳定可扩展系统
+- 以自动化测试与持续集成为质量基线
+- 以安全与可维护性为长期优先级
 
 ---
 
-## 快速入口
+## 核心产品线
 
-- **组织主页**：<https://github.com/ZELICLOUD>
-- **核心后端**：
+### 🔵 PropFlow
+
+> 业务流、协同与管理能力建设
+
+- [PropFlow_Backend](https://github.com/ZELICLOUD/PropFlow_Backend) — 服务端核心能力
+- [PropFlow_Frontend](https://github.com/ZELICLOUD/PropFlow_Frontend) — Web 前端
+- [PropFlow_Admin_App](https://github.com/ZELICLOUD/PropFlow_Admin_App) — 管理端 App
+- [PropFlow_User_App](https://github.com/ZELICLOUD/PropFlow_User_App) — 用户端 App
+- [PropFlow_Tools](https://github.com/ZELICLOUD/PropFlow_Tools) — 配套工具集
+- [PropFlow_docs](https://github.com/ZELICLOUD/PropFlow_docs) — 文档与规范
+
+### 🟢 Medical
+
+> 医疗业务数字化与运营支撑
+
+- [Medical_Backend](https://github.com/ZELICLOUD/Medical_Backend) — 服务端核心能力
+- [Medical_Admin_Web](https://github.com/ZELICLOUD/Medical_Admin_Web) — 管理端 Web
+- [Medical_Mini_Program](https://github.com/ZELICLOUD/Medical_Mini_Program) — 小程序端
+
+---
+
+## 快速导航
+
+- 查看全部仓库：<https://github.com/orgs/ZELICLOUD/repositories>
+- 进入 PropFlow 文档：<https://github.com/ZELICLOUD/PropFlow_docs>
+- 关注后端项目：
   - <https://github.com/ZELICLOUD/PropFlow_Backend>
   - <https://github.com/ZELICLOUD/Medical_Backend>
-- **产品文档**：<https://github.com/ZELICLOUD/PropFlow_docs>
 
 ---
 
-## 工程原则
+## 协作与反馈
 
-- 可维护优先：模块化、分层、清晰边界
-- 质量优先：自动化测试 + 持续集成
-- 安全优先：输入校验、权限控制、最小暴露面
-- 交付导向：围绕真实业务场景持续迭代
+欢迎通过对应仓库发起：
 
----
+- Issues（Bug / Feature Request）
+- Pull Requests（改进与修复）
+- Discussions（方案讨论）
 
-## 协作方式
+如果你是第一次参与，建议先从标记为 `good first issue` 的任务开始。
 
-欢迎通过各仓库 **Issues / Pull Requests / Discussions** 参与反馈与共建。
