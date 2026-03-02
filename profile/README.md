@@ -16,22 +16,18 @@
 
 ### PropFlow（业务流与协同）
 
-| 模块 | 仓库 |
-|---|---|
-| Backend | [PropFlow_Backend](https://github.com/ZELICLOUD/PropFlow_Backend) |
-| Frontend | [PropFlow_Frontend](https://github.com/ZELICLOUD/PropFlow_Frontend) |
-| Admin App | [PropFlow_Admin_App](https://github.com/ZELICLOUD/PropFlow_Admin_App) |
-| User App | [PropFlow_User_App](https://github.com/ZELICLOUD/PropFlow_User_App) |
-| Tools | [PropFlow_Tools](https://github.com/ZELICLOUD/PropFlow_Tools) |
-| Docs | [PropFlow_docs](https://github.com/ZELICLOUD/PropFlow_docs) |
+- **Backend** · [PropFlow_Backend](https://github.com/ZELICLOUD/PropFlow_Backend)
+- **Frontend** · [PropFlow_Frontend](https://github.com/ZELICLOUD/PropFlow_Frontend)
+- **Admin App** · [PropFlow_Admin_App](https://github.com/ZELICLOUD/PropFlow_Admin_App)
+- **User App** · [PropFlow_User_App](https://github.com/ZELICLOUD/PropFlow_User_App)
+- **Tools** · [PropFlow_Tools](https://github.com/ZELICLOUD/PropFlow_Tools)
+- **Docs** · [PropFlow_docs](https://github.com/ZELICLOUD/PropFlow_docs)
 
 ### Medical（医疗业务数字化）
 
-| 模块 | 仓库 |
-|---|---|
-| Backend | [Medical_Backend](https://github.com/ZELICLOUD/Medical_Backend) |
-| Admin Web | [Medical_Admin_Web](https://github.com/ZELICLOUD/Medical_Admin_Web) |
-| Mini Program | [Medical_Mini_Program](https://github.com/ZELICLOUD/Medical_Mini_Program) |
+- **Backend** · [Medical_Backend](https://github.com/ZELICLOUD/Medical_Backend)
+- **Admin Web** · [Medical_Admin_Web](https://github.com/ZELICLOUD/Medical_Admin_Web)
+- **Mini Program** · [Medical_Mini_Program](https://github.com/ZELICLOUD/Medical_Mini_Program)
 
 ---
 
