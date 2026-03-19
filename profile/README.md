@@ -13,6 +13,17 @@
 
 ---
 
+## 推荐先看
+
+- [PropFlow_Backend](https://github.com/ZELICLOUD/PropFlow_Backend)
+- [PropFlow_Frontend](https://github.com/ZELICLOUD/PropFlow_Frontend)
+- [Medical_Backend](https://github.com/ZELICLOUD/Medical_Backend)
+- [Medical_Admin_Web](https://github.com/ZELICLOUD/Medical_Admin_Web)
+- [martial-master](https://github.com/ZELICLOUD/martial-master)
+- [PropFlow_docs](https://github.com/ZELICLOUD/PropFlow_docs)
+
+---
+
 ## 产品方向
 
 ### PropFlow · 物业管理系统
