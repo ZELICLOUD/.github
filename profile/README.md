@@ -18,6 +18,18 @@
 
 </div>
 
+## 组织动效
+
+<p align="center">
+  <a href="https://github.com/ZELICLOUD/.github/raw/main/profile/assets/zelicloud-intro.mp4">
+    <img src="https://raw.githubusercontent.com/ZELICLOUD/.github/main/profile/assets/zelicloud-intro.gif?v=20260803-motion3" alt="ZELICLOUD 组织介绍动效" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZELICLOUD/.github/raw/main/profile/assets/zelicloud-intro.mp4">下载完整 MP4 动效</a>
+</p>
+
 ## 关于 ZELICLOUD
 
 我们从业务现场出发，把角色、流程、数据和交付约束落到系统里。研发覆盖后端服务、管理端 Web、移动端、小程序、智能设备与配套文档，让垂直行业的数字化建设更容易开始，也更容易持续迭代。
