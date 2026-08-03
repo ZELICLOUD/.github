@@ -26,13 +26,9 @@
 
 <img src="https://raw.githubusercontent.com/ZELICLOUD/.github/main/profile/assets/project-radar.svg?v=20260803-motion2" alt="ZELICLOUD 项目雷达" width="100%" />
 
-截至 2026-08-03，组织内共有 30 个仓库：1 个公开组织资料仓库，以及 29 个按协作范围管理的私有项目。项目雷达按业务域展示当前项目分布，状态点、扫描线和卡片呼吸边框用于表达持续开发中的项目节奏。
-
 ## 项目交付流
 
 <img src="https://raw.githubusercontent.com/ZELICLOUD/.github/main/profile/assets/project-flow.svg?v=20260803-motion2" alt="ZELICLOUD 项目交付流" width="100%" />
-
-从业务现场开始，经过产品建模与多端交付，再由文档、反馈和发布推动下一轮迭代。流动节点代表项目从需求进入交付链路的持续过程。
 
 ## 最近活跃项目
 
