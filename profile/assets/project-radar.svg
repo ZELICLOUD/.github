@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 358" width="768" height="358" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
   <title id="title">ZELICLOUD project radar</title>
   <desc id="desc">A live-style animated overview of ZELICLOUD's 29 private projects across five business domains.</desc>
 
-  <rect width="1200" height="560" rx="28" fill="#0B1220" />
+  <rect width="768" height="358" rx="18" fill="#0B1220" />
+  <g transform="scale(0.64)">
   <path d="M48 108H1152" stroke="#233149" stroke-width="1" />
   <path d="M48 108H1152" stroke="#38BDF8" stroke-width="2" stroke-dasharray="8 24" opacity="0.7">
     <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="3s" repeatCount="indefinite" />
@@ -20,7 +21,9 @@
   <text x="1152" y="84" text-anchor="end" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">profile sync · 2026.08</text>
 
   <g transform="translate(48 126)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#2563EB" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#2563EB" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#60A5FA">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="0s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0s" repeatCount="indefinite" />
@@ -34,7 +37,9 @@
   </g>
 
   <g transform="translate(430 126)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#14B8A6" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#14B8A6" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" begin="0.4s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#2DD4BF">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="0.4s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0.4s" repeatCount="indefinite" />
@@ -48,7 +53,9 @@
   </g>
 
   <g transform="translate(812 126)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#F59E0B" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#F59E0B" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" begin="0.8s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#FBBF24">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="0.8s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0.8s" repeatCount="indefinite" />
@@ -62,7 +69,9 @@
   </g>
 
   <g transform="translate(48 334)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#F97316" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#F97316" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" begin="1.2s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#FB923C">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="1.2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="1.2s" repeatCount="indefinite" />
@@ -76,7 +85,9 @@
   </g>
 
   <g transform="translate(430 334)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#EC4899" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#EC4899" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" begin="1.6s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#F472B6">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="1.6s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="1.6s" repeatCount="indefinite" />
@@ -90,7 +101,9 @@
   </g>
 
   <g transform="translate(812 334)">
-    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#22C55E" stroke-opacity="0.7" />
+    <rect width="340" height="184" rx="18" fill="#111C2E" stroke="#22C55E" stroke-opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.2s" begin="2s" repeatCount="indefinite" />
+    </rect>
     <circle cx="26" cy="32" r="5" fill="#4ADE80">
       <animate attributeName="r" values="5;9;5" dur="2.4s" begin="2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="2s" repeatCount="indefinite" />
@@ -104,5 +117,6 @@
     <path d="M22 160H262" stroke="#4ADE80" stroke-width="6" stroke-linecap="round" stroke-dasharray="40 24">
       <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="2s" repeatCount="indefinite" />
     </path>
+  </g>
   </g>
 </svg>
